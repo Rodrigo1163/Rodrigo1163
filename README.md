@@ -6,6 +6,9 @@
 
 ![Rodrigo1163 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo1163&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo1163)](https://github.com/Rodrigo1163/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"> </br>
